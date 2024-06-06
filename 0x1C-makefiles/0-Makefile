@@ -1,3 +1,3 @@
-
-all: main.c scool.c
+# this is how to creat a make file #
+all: main.c school.c
 	gcc main.c school.c -o school
